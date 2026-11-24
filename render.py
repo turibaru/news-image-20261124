@@ -132,9 +132,9 @@ ITEMS += [
      "Guterres speaks in Bridgetown, Barbados. (reported 24 Nov)"),
     # MARKETS & TECH (3)
     ("MARKETS & TECH", "Nvidia reinstates Jensen Huang as CEO after spy-affair row",
-     "Trump says 'I made the deal' to bring him back. (BBC, 24 Nov)"),
+     "Trump: 'I made the deal'. (Announced 23 Nov; BBC, 24 Nov)"),
     ("MARKETS & TECH", "CrowdStrike snaps up Zscaler in a $44bn deal",
-     "Cyber deal announced as threats mount. (Reuters, 24 Nov)"),
+     "Deal announced 23 Nov as threats mount. (Reuters, 24 Nov)"),
     ("MARKETS & TECH", "SCHEDULED TODAY: Huawei launches Mate X8 foldable, 14:30 Beijing",
      "Mate 90 Air and Watch Air join the launch event."),
 ]
